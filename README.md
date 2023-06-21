@@ -17,7 +17,7 @@
     <li>Conhecimentos em plataformas de gerenciamento corporativo | Jira | Miro | Proje4me.</li>
   </ul>
 
-<p>Participo também de programas voltados a essas áreas, o mais recente foi a maratona "Jornada FULL STACK: Criando um clone do TikTok!" da EBAC - Escola Britânica de Artes Criativas e Tecnologia. Adquiri conhecimentos valiosos de Front e Back-end, e desenvolvi um projeto igual ao TikTok. No projeto utilizamos as tecnologias HTML, CSS, JavaScript, React, banco de dados Firebase e também o Visual Studio Code.</p>
+<p>Participo também de programas voltados a essas áreas, o mais recente foi a maratona "Jornada FULL STACK: Criando um clone do TikTok!" da EBAC - Escola Britânica de Artes Criativas e Tecnologia. Adquiri conhecimentos valiosos de Front e Back-end, e desenvolvi um projeto igual ao TikTok. No projeto foi utilizado as tecnologias HTML, CSS, JavaScript, React, Firebase - Banco de Dados e também o Visual Studio Code.</p>
 
 <p></p>Estou sempre em busca de conhecimento e qualificação. </p>
 
