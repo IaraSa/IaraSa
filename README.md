@@ -27,13 +27,13 @@
 
 ### Projetos:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IaraSa&repo=Tik-Tok-Project)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IaraSa&repo=Tik-Tok-Project)](https://github.com/IaraSa/Tik-Tok-Project.git)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IaraSa&repo=Desenvolvimento_WEB)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IaraSa&repo=Desenvolvimento_WEB)](https://github.com/IaraSa/Desenvolvimento_WEB.git)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IaraSa&repo=logica_de_programacao)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IaraSa&repo=logica_de_programacao)](https://github.com/IaraSa/logica_de_programacao.git)
 
 ### Linguagens Utilizadas:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IaraSa)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IaraSa)](https://github.com/IaraSa?tab=repositories)
 
